@@ -4,8 +4,8 @@ This is my solution to the QR code component challenge on Frontend Mentor.
 
 ## Links
 
-- Live Site URL: [Will be added after deployment]
-- GitHub Repository: [Will be added after deployment]
+- Live Site URL: [https://hadjam005.github.io/qr-code-component/]
+- GitHub Repository: [https://github.com/hadjam005/qr-code-component]
 
 ## Built With
 
